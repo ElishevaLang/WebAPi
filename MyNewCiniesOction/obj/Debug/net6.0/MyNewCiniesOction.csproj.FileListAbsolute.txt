@@ -1,0 +1,782 @@
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+C:\Users\1\Downloads\webApi\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+E:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+F:\מסלול\WebApi\Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.dll
+M:\Web api\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+D:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+F:\מסלול\Final Project\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+M:\SaleProject\new\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+M:\SaleProject\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+F:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+D:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CopyComplete
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+E:\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.Development.json
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\appsettings.json
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.exe
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.deps.json
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.runtimeconfig.json
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\MyNewCiniesOction.pdb
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Humanizer.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.AssemblyReference.cache
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfoInputs.cache
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.AssemblyInfo.cs
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.csproj.CoreCompileInputs.cache
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cs
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.MvcApplicationPartsAssemblyInfo.cache
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.build.json
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.development.json
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.MyNewCiniesOction.Microsoft.AspNetCore.StaticWebAssets.props
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.build.MyNewCiniesOction.props
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyNewCiniesOction.props
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyNewCiniesOction.props
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\staticwebassets.pack.json
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\scopedcss\bundle\MyNewCiniesOction.styles.css
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCin.269E34B8.Up2Date
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\refint\MyNewCiniesOction.dll
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.pdb
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\MyNewCiniesOction.genruntimeconfig.cache
+F:\New folder\מסלול\Final Project\newFixed\MyNewCiniesOction\MyNewCiniesOction\obj\Debug\net6.0\ref\MyNewCiniesOction.dll

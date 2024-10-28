@@ -1,0 +1,1050 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\donordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\donordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\cartdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\cartdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\idonordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\idonordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\icartdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\icartdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\giftdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\giftdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dto\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dto\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\orderitemsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\orderitemsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dto\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dto\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\igiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\igiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\controllers\\rafflecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\controllers\\rafflecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\raffledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\raffledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\igiftdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\igiftdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\iwinningdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\iwinningdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\chiniesoctioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\chiniesoctioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\controllers\\winningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\controllers\\winningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dto\\orderitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dto\\orderitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dto\\raffledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dto\\raffledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\models\\raffle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\models\\raffle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\raffleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\raffleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\iraffleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\iraffleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dal\\iraffledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dal\\iraffledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\orderitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\orderitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dto\\orderitemsgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dto\\orderitemsgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\dto\\winningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\dto\\winningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\bl\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\bl\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\securityrequirementsoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\securityrequirementsoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\mynewciniesoction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\mynewciniesoction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\migrations\\20231217113438_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\migrations\\20231217113438_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\migrations\\20231217113019_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\migrations\\20231217113019_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\migrations\\20231226150644_addwinningtable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\migrations\\20231226150644_addwinningtable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\migrations\\20231226150400_addwinningtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\migrations\\20231226150400_addwinningtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\migrations\\20240123125416_addamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\migrations\\20240123125416_addamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\migrations\\20240123125246_byhvy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\migrations\\20240123125246_byhvy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\migrations\\20240123124655_addquantityfororderitems2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\migrations\\20240123124655_addquantityfororderitems2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|f:\\new folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\final project\\newfixed\\mynewciniesoction\\mynewciniesoction\\migrations\\20240123124512_addquantityfororderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059642D9-007B-43A9-B6AE-85EE4DB3E70C}|MyNewCiniesOction\\MyNewCiniesOction.csproj|solutionrelative:mynewciniesoction\\migrations\\20240123124512_addquantityfororderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 319,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonorDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\DonorDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\DonorDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\DonorDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\DonorDal.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Models\\Category.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Category.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemsDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\OrderItemsDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\OrderItemsDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\OrderItemsDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\OrderItemsDal.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\CartDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\CartDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\CartDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\CartDal.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICartDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\ICartDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\ICartDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\ICartDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\ICartDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonorController.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\DonorController.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Controllers\\DonorController.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\DonorController.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Controllers\\DonorController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Controllers\\CartController.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAASwGcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\ICartService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\ICartService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\ICartService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\ICartService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAvwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\CartService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\CartService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\CartService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\CartService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwCsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GiftController.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\GiftController.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Controllers\\GiftController.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\GiftController.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Controllers\\GiftController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\OrderDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\OrderDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\OrderDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\OrderDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\UserDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\UserDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\UserDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\UserDal.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\MappingProfile.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\MappingProfile.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GiftService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\GiftService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\GiftService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\GiftService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\GiftService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DonorService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\DonorService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\DonorService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\DonorService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\DonorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GiftDTO.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\GiftDTO.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DTO\\GiftDTO.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\GiftDTO.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DTO\\GiftDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GiftDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\GiftDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\GiftDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\GiftDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\GiftDal.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAYwOYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDonorDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IDonorDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\IDonorDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IDonorDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\IDonorDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\CartDTO.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DTO\\CartDTO.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\CartDTO.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DTO\\CartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Gift.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Models\\Gift.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Gift.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Models\\Gift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Models\\Donor.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Donor.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Models\\Donor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DonorDTO.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\DonorDTO.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DTO\\DonorDTO.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\DonorDTO.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DTO\\DonorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGiftService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\IGiftService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\IGiftService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\IGiftService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\IGiftService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDonorService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\IDonorService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\IDonorService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\IDonorService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\IDonorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RaffleController.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\RaffleController.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Controllers\\RaffleController.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\RaffleController.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Controllers\\RaffleController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvy8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RaffleDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\RaffleDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\RaffleDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\RaffleDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\RaffleDal.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAArwCoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IOrderDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\IOrderDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IOrderDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\IOrderDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\OrderService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\OrderService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\OrderService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\OrderService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAIwGQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\appsettings.json",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\appsettings.json",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\appsettings.json",
+              "RelativeToolTip": "MyNewCiniesOction\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T12:48:25.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IWinningDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IWinningDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\IWinningDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IWinningDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\IWinningDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChiniesOctionContext.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\ChiniesOctionContext.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\ChiniesOctionContext.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\ChiniesOctionContext.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\ChiniesOctionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\IOrderService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\IOrderService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\IOrderService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\IOrderService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IGiftDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IGiftDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\IGiftDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IGiftDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\IGiftDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAvwJ4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WinningController.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\WinningController.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Controllers\\WinningController.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\WinningController.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Controllers\\WinningController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwBQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Models\\Cart.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Cart.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240123125246_byhvy.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20240123125246_byhvy.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Migrations\\20240123125246_byhvy.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20240123125246_byhvy.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Migrations\\20240123125246_byhvy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\OrderItems.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Models\\OrderItems.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\OrderItems.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Models\\OrderItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderItemsDTO.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\OrderItemsDTO.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DTO\\OrderItemsDTO.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\OrderItemsDTO.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DTO\\OrderItemsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240123124512_AddQuantityForOrderItems.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20240123124512_AddQuantityForOrderItems.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Migrations\\20240123124512_AddQuantityForOrderItems.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20240123124512_AddQuantityForOrderItems.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Migrations\\20240123124512_AddQuantityForOrderItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240123124655_AddQuantityForOrderItems2.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20240123124655_AddQuantityForOrderItems2.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Migrations\\20240123124655_AddQuantityForOrderItems2.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20240123124655_AddQuantityForOrderItems2.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Migrations\\20240123124655_AddQuantityForOrderItems2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240123125416_AddAmount.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20240123125416_AddAmount.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Migrations\\20240123125416_AddAmount.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20240123125416_AddAmount.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Migrations\\20240123125416_AddAmount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DTO\\OrderDTO.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Raffle.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Raffle.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Models\\Raffle.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Raffle.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Models\\Raffle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRaffleService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\IRaffleService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\IRaffleService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\IRaffleService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\IRaffleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RaffleDTO.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\RaffleDTO.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DTO\\RaffleDTO.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\RaffleDTO.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DTO\\RaffleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Models\\Order.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\Order.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderItemsGetDTO.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\OrderItemsGetDTO.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DTO\\OrderItemsGetDTO.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\OrderItemsGetDTO.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DTO\\OrderItemsGetDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderItemsService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\OrderItemsService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\OrderItemsService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\OrderItemsService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\OrderItemsService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRaffleDal.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IRaffleDal.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DAL\\IRaffleDal.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DAL\\IRaffleDal.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DAL\\IRaffleDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RaffleService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\RaffleService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\RaffleService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\RaffleService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\RaffleService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwDMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WinningDTO.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\WinningDTO.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\DTO\\WinningDTO.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\DTO\\WinningDTO.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\DTO\\WinningDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Models\\User.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Models\\User.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\UserService.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\BL\\UserService.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\BL\\UserService.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\BL\\UserService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Program.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Program.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Program.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Program.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAEwJEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SecurityRequirementsOperationFilter.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\SecurityRequirementsOperationFilter.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\SecurityRequirementsOperationFilter.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\SecurityRequirementsOperationFilter.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\SecurityRequirementsOperationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20231226150644_AddWinningTable2.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20231226150644_AddWinningTable2.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Migrations\\20231226150644_AddWinningTable2.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20231226150644_AddWinningTable2.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Migrations\\20231226150644_AddWinningTable2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20231226150400_AddWinningTable.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20231226150400_AddWinningTable.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Migrations\\20231226150400_AddWinningTable.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20231226150400_AddWinningTable.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Migrations\\20231226150400_AddWinningTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyNewCiniesOction\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T12:48:25.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MyNewCiniesOction",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\MyNewCiniesOction.csproj",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\MyNewCiniesOction.csproj",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\MyNewCiniesOction.csproj",
+              "RelativeToolTip": "MyNewCiniesOction\\MyNewCiniesOction.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T12:48:25.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20231217113438_init2.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20231217113438_init2.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Migrations\\20231217113438_init2.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20231217113438_init2.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Migrations\\20231217113438_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20231217113019_init1.cs",
+              "DocumentMoniker": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20231217113019_init1.cs",
+              "RelativeDocumentMoniker": "MyNewCiniesOction\\Migrations\\20231217113019_init1.cs",
+              "ToolTip": "F:\\New folder\\\u05DE\u05E1\u05DC\u05D5\u05DC\\Final Project\\newFixed\\MyNewCiniesOction\\MyNewCiniesOction\\Migrations\\20231217113019_init1.cs",
+              "RelativeToolTip": "MyNewCiniesOction\\Migrations\\20231217113019_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:25.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
