@@ -1,7 +1,7 @@
 # WebAPi
 Thanks for looking into my project. This project was built using Asp.Net Core 6 with Web API, Rest API, as a Monolite.
 I divided my project into different layers that communicate via DI in order to gain encapsulation and flexibility
-1.Controller- which includes controllers 
+>1.Controller- which includes controllers 
 2.BL- for business logic
 3.DAL-for connecting to the database Entity Framework Core 6 as then ORM with a code-first approach
 I have a middleware which is designed to handle user authentication using JWT (JSON Web Tokens). It extracts the token from the `Authorization` header, validates it, and maps its claims (e.g., `userId`, `Role`) to a `User` object, which is then stored in the request context for downstream processing.
@@ -19,7 +19,7 @@ Run the following command to create the database:
 1.add-migration [MyDataBaseName]
 2.Update-DataBase.
 And your DB is ready for use!
-### Thanks for checking out my project hope you enjoyed!
+###### Thanks for checking out my project- hope you enjoyed!
 
 
 
