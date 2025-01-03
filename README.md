@@ -18,7 +18,7 @@ In the package manager console, select the project (WebApiSite) from the "Defaul
 Run the following command to create the database:
 1.add-migration [MyDataBaseName]
 2.Update-DataBase.
-And your DB is ready for use!-
+And your DB is ready for use!
 ### Thanks for checking out my project hope you enjoyed!
 
 
