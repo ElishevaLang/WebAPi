@@ -12,7 +12,7 @@ Error handling is taken care of by logging with NLOG. All errors should be caugh
 Configuration file (appsettings.json) for environment variables. I added a rating middleware to record all site entries.
 ### How to run the project?
 Using Visual Studio 2022 with .NET 6 and SQL Server Management Studio,
-Create the database using EF code First:
+Create the database using EF code First as in [https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database](url):
 Open the package manager terminal in Visual Studio: Go to "Tools" "NuGet Package Manager" "Package Manager Terminal".
 In the package manager console, select the project (WebApiSite) from the "Default Project" dropdown.
 Run the following command to create the database:
