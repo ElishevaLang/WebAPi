@@ -4,9 +4,8 @@ I divided my project into different layers that communicate via DI in order to g
 1.Controller- which includes controllers 
 2.BL- for business logic
 3.DAL-for connecting to the database Entity Framework Core 6 as then ORM with a code-first approach
-I have a middleware which is designed to handle user authentication using JWT (JSON Web Tokens). It extracts the token from the `Authorization` header, validates it, and maps its claims (e.g., `userId`, `Role`) to a `User` object, which is then stored in the request context for downstream processing.
-In addition, I have a swagger that describes my project structure.
-DTO for transferring data to the client using Auto Mapper.
+I have a middleware which is designed to handle user authentication using JWT. It extracts the token from the `Authorization` header, validates it, and maps its claims (e.g., `userId`, `Role`) to a `User` object, which is then stored in the request context for downstream processing.
+In addition, I have a swagger that describes my project structure.DTO for transferring data to the client using Auto Mapper.
 I gave special attention to scaling the site by using async/await.
 Error handling is taken care of by logging with NLOG. All errors should be caught using a middleware for that.
 Configuration file (appsettings.json) for environment variables. I added a rating middleware to record all site entries.
